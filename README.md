@@ -31,6 +31,10 @@
 |项目英文名|项目中文名|所属范围|介绍|语言|状态|
 |---|---|---|---|---|---|
 |phap|编程友好算法包|模块|一个对编程有帮助的Python算法包|Python|开发中:white_check_mark:
+|pyfdbg|快速调试器|开发工具|一个简单且强大、易于使用的调试器|Python|开发中:white_check_mark:
+|DashShell|Dash命令行|工具|一个易于使用的中文命令行工具|Python|慢速维护:arrow_up_small:
+|loudplayer|大声播放器|恶搞程序|一个不会停下的播放器|Python|停止维护:red_circle:
+
 <!--
 |-|-|-|-|-|慢速维护:arrow_up_small:
 |-|-|-|-|-|停止维护:red_circle:
