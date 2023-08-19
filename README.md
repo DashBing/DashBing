@@ -36,6 +36,9 @@
 |loudplayer|大声播放器|恶搞程序|一个不会停下的播放器|Python|停止维护:red_circle:
 
 <!--
-|-|-|-|-|-|慢速维护:arrow_up_small:
-|-|-|-|-|-|停止维护:red_circle:
+三种状态:
+
+开发中:white_check_mark:
+慢速维护:arrow_up_small:
+停止维护:red_circle:
 --> 
