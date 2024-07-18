@@ -11,12 +11,8 @@
 - CPython (熟练)
 - C++ (学习中)
 - C# (学习中)
-- C (放弃)
-- Rust (放弃)
-- Java (放弃)
-- JavaScript (放弃)
-- HTML (放弃)
-- CSS (放弃)
+- C (学习中)
+- Java (学习中)
 
 ---
 ### 制作方向
@@ -30,11 +26,8 @@
 ### 开发项目
 |项目英文名|项目中文名|所属范围|介绍|语言|状态|
 |---|---|---|---|---|---|
-|phap|编程友好算法包|模块|一个对编程有帮助的Python算法包|Python|稳定:star:
 |canyon-framework|Canyon软件开发框架|架构|一个易于使用的软件开发框架|C++|开发中:white_check_mark:
 |zhouyi|周易算法库|程序库|一个包含多种算法的占卜程序库|Python|开发中:white_check_mark:
-|pyfdbg|快速调试器|开发工具|一个简单且强大、易于使用的调试器|Python|开发中:white_check_mark:
-|DashShell|Dash命令行|工具|一个易于使用的中文命令行工具|Python|慢速维护:arrow_up_small:
 |loudplayer|大声播放器|恶搞程序|一个不会停下的播放器|Python|停止维护:red_circle:
 
 <!--
