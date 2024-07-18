@@ -26,7 +26,7 @@
 ### 开发项目
 |项目英文名|项目中文名|所属范围|介绍|语言|状态|
 |---|---|---|---|---|---|
-|canyon-framework|Canyon软件开发框架|架构|一个易于使用的软件开发框架|C++|开发中:white_check_mark:
+|canyon-framework|Canyon软件开发框架|架构|一个学习探索性质的软件开发框架|C++|开发中:white_check_mark:
 |zhouyi|周易算法库|程序库|一个包含多种算法的占卜程序库|Python|开发中:white_check_mark:
 |loudplayer|大声播放器|恶搞程序|一个不会停下的播放器|Python|停止维护:red_circle:
 
